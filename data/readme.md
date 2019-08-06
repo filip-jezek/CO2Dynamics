@@ -1,0 +1,1 @@
+The content of this folder is ignored. Its therefore safe to add any data here.
